@@ -1,11 +1,10 @@
 ## Aprendizagem-Python
 <span>Exercícios e um projeto inacabado de quando estava estudando Python.</span>
 
-
-<h1>Foodmarket</h1>
+### Foodmarket
 <span> Inicio de um projeto de aplicativo de e-commerce.</span>
 
-<h1>PythonExercicios</h1>
+### PythonExercicios
 <span>Minha solução para os exercícios do Curso em Vídeo</span>
 
 <p>O exercício 045 contem um jogo simples de Jokempô, que fiz e personalizei
